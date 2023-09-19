@@ -21,8 +21,7 @@
 
 <a name="3DVG"></a>
 # 3D Visual Grounding
-
-**🎊AAAI 2023🎊 🎐Language Conditioned Spatial Relation Reasoning for 3D Object Grounding🎐**
+*`NeurIPS 2022`* **🎐Language Conditioned Spatial Relation Reasoning for 3D Object Grounding🎐**
 - Summary:
 - Paper:
 - Code:
