@@ -10,7 +10,7 @@
 # 2D Visual Grounding
 
 <a name="2DWS"></a>
-## Weak Supervision
+## [Weak Supervision]()
 
 <a name="2DSSL"></a>
 ### Semi-Supervised Learning
