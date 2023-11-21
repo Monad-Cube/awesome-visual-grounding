@@ -14,6 +14,11 @@
 
 <a name="2DSSL"></a>
 ### Semi-Supervised Learning
+*`CVPR 2023`* **🎐RefTeacher: A Strong Baseline for Semi-Supervised Referring Expression Comprehension🎐**
+*`ACM MM 2023`* **🎐Semi-Supervised Panoptic Narrative Grounding🎐** 
+
+### Weakly-Supervised Learning
+*`CVPR 2023`* **🎐RefCLIP: A Universal Teacher for Weakly Supervised Referring Expression Comprehension🎐** 
 
 <a name="2DOS"></a>
 ## [2D One Stage]()
