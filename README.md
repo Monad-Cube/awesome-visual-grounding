@@ -14,7 +14,7 @@
 
 <a name="2DSSL"></a>
 ### Semi-Supervised Learning
-*`CVPR 2023`* **🎐RefTeacher: A Strong Baseline for Semi-Supervised Referring Expression Comprehension🎐**
+*`CVPR 2023`* **🎐RefTeacher: A Strong Baseline for Semi-Supervised Referring Expression Comprehension🎐**  
 *`ACM MM 2023`* **🎐Semi-Supervised Panoptic Narrative Grounding🎐** 
 
 ### Weakly-Supervised Learning
