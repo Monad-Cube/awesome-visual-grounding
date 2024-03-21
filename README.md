@@ -41,6 +41,8 @@
 
 ## [3D One-Stage]()
 *`CVPR 2022 Oral`* **🎐3D-SPS: Single-stage 3d visual grounding via referred point progressive selection🎐**  
+*`ECCV 2022`* **🎐BUTD-DETR: Bottom Up Top Down Detection Transformers for Language Grounding in Images and Point Clouds🎐**  
+*`CVPR 2023`* **🎐EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual Grounding🎐**  
 
 ## [2D Knowledge to 3D]()
 *`ICCV 2021`* **🎐SAT: 2d semantics assisted training for 3d visual grounding🎐**  
