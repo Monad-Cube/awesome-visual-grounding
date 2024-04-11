@@ -64,10 +64,11 @@
 
 ## [Multimodal]()
 *`NIPS 2022`* **🎐Language Conditioned Spatial Relation Reasoning for 3D Object Grounding🎐**
-- Summary:
-- Paper:
-- Code:
-- Feishu:  
+
+## [Weakly-Supervised]()
+*`NIPS 2022`* **🎐
+WS-3DVG: Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding 🎐**
+
 
 *`ACM MM 2023`* **🎐Dense Object Grounding in 3D Scenes🎐**
 <a name="3DPG"></a>
