@@ -34,6 +34,10 @@
 ## [Pretraining]()
 
 ## [LLM]()
+*`CVPR 2024`* **🎐Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding🎐**  
+*`CVPR 2024`* **🎐Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners🎐**  
+*`CVPR 2024`* **🎐LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning🎐**  
+*`CVPR 2023`* **🎐NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations🎐**
 
 ## [Scene Graph]()
 *`ICCV 2021`* **🎐Free-form description guided 3d visual graph network for object grounding in point cloud🎐**  
