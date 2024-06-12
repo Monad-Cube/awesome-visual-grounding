@@ -76,5 +76,5 @@
 *`ACM MM 2023`* **🎐Dense Object Grounding in 3D Scenes🎐**
 
 <a name="3DPG"></a>
-## 3D Phrase Grounding
+## [3D Phrase Grounding]()
 *`Arxiv 2023.05`* **🎐Toward Fine-Grained 3D Visual Grounding through Referring Textual Phrases🎐**
