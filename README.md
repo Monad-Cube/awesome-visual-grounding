@@ -24,7 +24,6 @@
 ## [2D One Stage]()
 *`ICCV 2021`* **🎐MDETR-modulated detection for end-to-end multi-modal understanding🎐**  
 
-
 <a name="3DVG"></a>
 # 3D Visual Grounding
 ## [Baseline]()
@@ -32,12 +31,13 @@
 *`ECCV 2020 Oral`* **🎐Referit3d: Neural listeners for fine-grained 3d object identification in real-world scenes🎐**  
 
 ## [Pretraining]()
+*`ICCV 2023`* **🎐3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment🎐**
 
 ## [LLM]()
+*`CVPR 2023`* **🎐NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations🎐**
 *`CVPR 2024`* **🎐Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding🎐**  
 *`CVPR 2024`* **🎐Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners🎐**  
 *`CVPR 2024`* **🎐LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning🎐**  
-*`CVPR 2023`* **🎐NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations🎐**
 
 ## [Scene Graph]()
 *`ICCV 2021`* **🎐Free-form description guided 3d visual graph network for object grounding in point cloud🎐**  
@@ -50,6 +50,7 @@
 ## [3D One-Stage]()
 *`CVPR 2022 Oral`* **🎐3D-SPS: Single-stage 3d visual grounding via referred point progressive selection🎐**  
 *`ECCV 2022`* **🎐BUTD-DETR: Bottom Up Top Down Detection Transformers for Language Grounding in Images and Point Clouds🎐**  
+*`EMNLP 2023`* **🎐3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding🎐**  
 *`CVPR 2023`* **🎐EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual Grounding🎐**  
 
 ## [2D Knowledge to 3D]()
