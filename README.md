@@ -39,6 +39,9 @@
 *`CVPR 2024`* **🎐Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners🎐**  
 *`CVPR 2024`* **🎐LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning🎐**  
 
+## [Language Parser]()
+*`AAAI 2023 Oral`* **🎐Language-Assisted 3D Feature Learning for Semantic Scene Understanding🎐**  
+
 ## [Scene Graph]()
 *`ICCV 2021`* **🎐Free-form description guided 3d visual graph network for object grounding in point cloud🎐**  
 
