@@ -34,7 +34,7 @@
 *`ICCV 2023`* **🎐3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment🎐**
 
 ## [LLM]()
-*`CVPR 2023`* **🎐NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations🎐**
+*`CVPR 2023`* **🎐NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations🎐**  
 *`CVPR 2024`* **🎐Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding🎐**  
 *`CVPR 2024`* **🎐Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners🎐**  
 *`CVPR 2024`* **🎐LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning🎐**  
