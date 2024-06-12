@@ -50,6 +50,7 @@
 *`ACM MM 2021`* **🎐Transrefer3d: Entity-and-relation aware transformer for fine-grained 3d visual grounding🎐**  
 *`ICCV 2021`* **🎐3DVG-Transformer: Relation modeling for visual grounding on point clouds🎐**  
 *`CoRL 2021`* **🎐Languagerefer: Spatial-language model for 3d visual grounding🎐**  
+*`CVPR 2024`* **🎐MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding🎐**  
 
 ## [3D One-Stage]()
 *`CVPR 2022 Oral`* **🎐3D-SPS: Single-stage 3d visual grounding via referred point progressive selection🎐**  
@@ -61,6 +62,7 @@
 *`ICCV 2021`* **🎐SAT: 2d semantics assisted training for 3d visual grounding🎐**  
 *`CVPR 2022`* **🎐X-Trans2Cap: Cross-Modal Knowledge Transfer using Transformer for 3D Dense Captioning🎐**  
 *`NIPS 2022`* **🎐Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding🎐**  
+*`CVPR 2024`* **🎐Towards CLIP-driven Language-free 3D Visual Grounding via 2D-3D Relational Enhancement and Consistency🎐**  
 
 ## [Multi-View]()
 *`CVPR 2022`* **🎐Multi-view transformer for 3d visual grounding🎐**  
