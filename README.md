@@ -41,6 +41,7 @@
 
 ## [Language Parser]()
 *`AAAI 2023 Oral`* **🎐Language-Assisted 3D Feature Learning for Semantic Scene Understanding🎐**  
+*`CVPR 2024`* **🎐G3-LQ: Marrying Hyperbolic Alignment with Explicit Semantic-Geometric Modeling for 3D Visual Grounding🎐**  
 
 ## [Scene Graph]()
 *`ICCV 2021`* **🎐Free-form description guided 3d visual graph network for object grounding in point cloud🎐**  
