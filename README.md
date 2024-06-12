@@ -78,4 +78,4 @@
 
 <a name="3DPG"></a>
 ## [3D Phrase Grounding]()
-*`Arxiv 2023.05`* **🎐Toward Fine-Grained 3D Visual Grounding through Referring Textual Phrases🎐**
+*`Arxiv 2022.07`* **🎐Toward Fine-Grained 3D Visual Grounding through Referring Textual Phrases🎐**
