@@ -75,6 +75,7 @@
 
 ## [Multimodal]()
 *`NIPS 2022`* **🎐Language Conditioned Spatial Relation Reasoning for 3D Object Grounding🎐**
+*`CVPR 2024`* **🎐Multi-Attribute Interactions Matter for 3D Visual Grounding🎐**
 
 ## [Weakly-Supervised]()
 *`ICCV 2023`* **🎐WS-3DVG: Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding 🎐**
