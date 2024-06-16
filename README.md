@@ -74,7 +74,7 @@
 *`ICCV 2023 workshop`* **Three Ways to Improve Verbo-visual Fusion for Dense 3D Visual Grounding**  
 
 ## [Multimodal]()
-*`NIPS 2022`* **🎐Language Conditioned Spatial Relation Reasoning for 3D Object Grounding🎐**
+*`NIPS 2022`* **🎐Language Conditioned Spatial Relation Reasoning for 3D Object Grounding🎐**  
 *`CVPR 2024`* **🎐Multi-Attribute Interactions Matter for 3D Visual Grounding🎐**
 
 ## [Weakly-Supervised]()
