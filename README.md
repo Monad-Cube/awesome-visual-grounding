@@ -16,6 +16,7 @@
 ### Semi-Supervised Learning
 *`CVPR 2023`* **🎐RefTeacher: A Strong Baseline for Semi-Supervised Referring Expression Comprehension🎐**  
 *`ACM MM 2023`* **🎐Semi-Supervised Panoptic Narrative Grounding🎐** 
+*`Arxiv 2024`* **🎐ACTRESS: Active Retraining for Semi-supervised Visual Grounding🎐** 
 
 ### Weakly-Supervised Learning
 *`CVPR 2023`* **🎐RefCLIP: A Universal Teacher for Weakly Supervised Referring Expression Comprehension🎐** 
