@@ -25,6 +25,14 @@
 ## [2D One Stage]()
 *`ICCV 2021`* **🎐MDETR-modulated detection for end-to-end multi-modal understanding🎐**  
 
+<a name="2DDiff"></a>
+## [Diffusion for 2DVG]()
+*`ECCV 2024`* **🎐Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model🎐**  
+
+<a name="2DS"></a>
+## [2D Segmentation]()
+*`ECCV 2024`* **🎐SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding🎐**  
+
 <a name="3DVG"></a>
 # 3D Visual Grounding
 ## [Baseline]()
@@ -39,6 +47,7 @@
 *`CVPR 2024`* **🎐Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding🎐**  
 *`CVPR 2024`* **🎐Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners🎐**  
 *`CVPR 2024`* **🎐LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning🎐**  
+*`ECCV 2024`* **🎐Empowering 3D Visual Grounding with Reasoning Capabilities 🎐**  
 
 ## [Language Parser]()
 *`AAAI 2023 Oral`* **🎐Language-Assisted 3D Feature Learning for Semantic Scene Understanding🎐**  
@@ -70,19 +79,23 @@
 *`ICCV 2023`* **🎐ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance🎐**  
 
 ## [Segmentation]()
-*`AAAI 2021`* **Text-Guided Graph Neural Networks for Referring 3D Instance Segmentation**  
-*`ICCV 2021`* **InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring**  
-*`ICCV 2023 workshop`* **Three Ways to Improve Verbo-visual Fusion for Dense 3D Visual Grounding**  
+*`AAAI 2021`* **🎐Text-Guided Graph Neural Networks for Referring 3D Instance Segmentation🎐**  
+*`ICCV 2021`* **🎐InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring🎐**  
+*`ICCV 2023 workshop`* **🎐Three Ways to Improve Verbo-visual Fusion for Dense 3D Visual Grounding🎐**  
+*`ICCV 2023 workshop`* **🎐Multi-branch Collaborative Learning Network for 3D Visual Grounding🎐**   
 
 ## [Multimodal]()
 *`NIPS 2022`* **🎐Language Conditioned Spatial Relation Reasoning for 3D Object Grounding🎐**  
 *`CVPR 2024`* **🎐Multi-Attribute Interactions Matter for 3D Visual Grounding🎐**
 
 ## [Weakly-Supervised]()
-*`ICCV 2023`* **🎐WS-3DVG: Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding 🎐**
+*`ICCV 2023`* **🎐WS-3DVG: Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding🎐**
 
 ## [Dense Grounding]()
 *`ACM MM 2023`* **🎐Dense Object Grounding in 3D Scenes🎐**
+
+## [Synthetic Scene]()
+*`IJCAI 2024`* **🎐3D Vision and Language Pretraining with Large-Scale Synthetic Data🎐**
 
 <a name="3DPG"></a>
 ## [3D Phrase Grounding]()
