@@ -82,7 +82,7 @@
 *`AAAI 2021`* **🎐Text-Guided Graph Neural Networks for Referring 3D Instance Segmentation🎐**  
 *`ICCV 2021`* **🎐InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring🎐**  
 *`ICCV 2023 workshop`* **🎐Three Ways to Improve Verbo-visual Fusion for Dense 3D Visual Grounding🎐**  
-*`ICCV 2023 workshop`* **🎐Multi-branch Collaborative Learning Network for 3D Visual Grounding🎐**   
+*`ECCV 2024`* **🎐Multi-branch Collaborative Learning Network for 3D Visual Grounding🎐**   
 
 ## [Multimodal]()
 *`NIPS 2022`* **🎐Language Conditioned Spatial Relation Reasoning for 3D Object Grounding🎐**  
