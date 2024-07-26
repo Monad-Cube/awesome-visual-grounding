@@ -83,6 +83,7 @@
 *`ICCV 2021`* **🎐InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring🎐**  
 *`ICCV 2023 workshop`* **🎐Three Ways to Improve Verbo-visual Fusion for Dense 3D Visual Grounding🎐**  
 *`ECCV 2024`* **🎐Multi-branch Collaborative Learning Network for 3D Visual Grounding🎐**   
+*`ACM MM 2024`* **🎐RefMask3D: Language-Guided Transformer for 3D Referring Segmentation🎐**   
 
 ## [Multimodal]()
 *`NIPS 2022`* **🎐Language Conditioned Spatial Relation Reasoning for 3D Object Grounding🎐**  
