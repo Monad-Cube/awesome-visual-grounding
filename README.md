@@ -39,8 +39,9 @@
 *`CVPR 2020`* **🎐Scanrefer: 3d object localization in rgb-d scans using natural language🎐**  
 *`ECCV 2020 Oral`* **🎐Referit3d: Neural listeners for fine-grained 3d object identification in real-world scenes🎐**  
 
-## [Pretraining]()
+## [Multiple Tasks]()
 *`ICCV 2023`* **🎐3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment🎐**
+*`ECCV 2024`* **🎐Unifying 3D Vision-Language Understanding via Promptable Queries🎐**
 
 ## [LLM]()
 *`CVPR 2023`* **🎐NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations🎐**  
