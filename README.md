@@ -40,7 +40,7 @@
 *`ECCV 2020 Oral`* **🎐Referit3d: Neural listeners for fine-grained 3d object identification in real-world scenes🎐**  
 
 ## [Multiple Tasks]()
-*`ICCV 2023`* **🎐3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment🎐**
+*`ICCV 2023`* **🎐3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment🎐**  
 *`ECCV 2024`* **🎐Unifying 3D Vision-Language Understanding via Promptable Queries🎐**
 
 ## [LLM]()
@@ -48,7 +48,7 @@
 *`CVPR 2024`* **🎐Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding🎐**  
 *`CVPR 2024`* **🎐Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners🎐**  
 *`CVPR 2024`* **🎐LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning🎐**  
-*`ECCV 2024`* **🎐Empowering 3D Visual Grounding with Reasoning Capabilities 🎐**  
+*`ECCV 2024`* **🎐Empowering 3D Visual Grounding with Reasoning Capabilities🎐**  
 
 ## [Language Parser]()
 *`AAAI 2023 Oral`* **🎐Language-Assisted 3D Feature Learning for Semantic Scene Understanding🎐**  
@@ -99,6 +99,9 @@
 
 ## [Synthetic Scene]()
 *`IJCAI 2024`* **🎐3D Vision and Language Pretraining with Large-Scale Synthetic Data🎐**
+
+## [Agent Oriented]
+*`Arxiv 2024`* **🎐Task-oriented Sequential Grounding in 3D Scenes🎐**  
 
 <a name="3DPG"></a>
 ## [3D Phrase Grounding]()
