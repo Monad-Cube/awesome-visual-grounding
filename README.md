@@ -63,7 +63,7 @@
 *`ICCV 2021`* **🎐3DVG-Transformer: Relation modeling for visual grounding on point clouds🎐**  
 *`CoRL 2021`* **🎐Languagerefer: Spatial-language model for 3d visual grounding🎐**  
 *`NeurIPS 2023`* **🎐Exploiting Contextual Objects and Relations for 3D Visual Grounding🎐**  
-*`CVPR 2024`* **🎐MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding🎐**
+*`CVPR 2024`* **🎐MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding🎐**  
 *`Arxiv 24.08`* **🎐PD-TPE: Parallel Decoder with Text-guided Position Encoding for 3D Visual Grounding
 
 
