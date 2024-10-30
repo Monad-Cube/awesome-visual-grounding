@@ -80,7 +80,7 @@
 *`CVPR 2022`* **🎐X-Trans2Cap: Cross-Modal Knowledge Transfer using Transformer for 3D Dense Captioning🎐**  
 *`NIPS 2022`* **🎐Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding🎐**  
 *`CVPR 2024`* **🎐Towards CLIP-driven Language-free 3D Visual Grounding via 2D-3D Relational Enhancement and Consistency🎐**  
-*`AAAI 2024`* **🎐Mono3DVG: 3D Visual Grounding in Monocular Images🎐** 
+*`AAAI 2024`* **🎐Mono3DVG: 3D Visual Grounding in Monocular Images🎐** [[arxiv](https://arxiv.org/pdf/2312.08022)] [[github](https://github.com/ZhanYang-nwpu/Mono3DVG)]  
 
 ## [Multi-View]()
 *`CVPR 2022`* **🎐Multi-view transformer for 3d visual grounding🎐**  
