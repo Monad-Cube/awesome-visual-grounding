@@ -51,6 +51,8 @@
 *`ECCV 2024`* **🎐Empowering 3D Visual Grounding with Reasoning Capabilities🎐**  
 *`Arxiv 2024.09`* **🎐LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness🎐**  
 *`CoRL 2024`* **🎐VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding🎐** [[arxiv](https://arxiv.org/abs/2410.13860)] [[github](https://github.com/OpenRobotLab/VLM-Grounder)]  
+*`Arxiv 2024.10`* **🎐Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning🎐** [[arxiv](https://arxiv.org/abs/2410.13860)] [[github](https://github.com/WeitaiKang/Robin3D)]  
+
 
 ## [Language Parser]()
 *`AAAI 2023 Oral`* **🎐Language-Assisted 3D Feature Learning for Semantic Scene Understanding🎐**  
