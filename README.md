@@ -48,6 +48,7 @@
 *`CVPR 2024`* **🎐Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding🎐**  
 *`CVPR 2024`* **🎐Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners🎐**  
 *`CVPR 2024`* **🎐LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning🎐**  
+*`CVPR 2024`* **🎐SIG3D: Situational Awareness Matters in 3D Vision Language Reasoning🎐**  [[arxiv](https://arxiv.org/abs/2406.07544)] [[github](https://github.com/YunzeMan/Situation3D)]  
 *`ECCV 2024`* **🎐Empowering 3D Visual Grounding with Reasoning Capabilities🎐**  
 *`Arxiv 2024.09`* **🎐LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness🎐**  
 *`CoRL 2024`* **🎐VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding🎐** [[arxiv](https://arxiv.org/abs/2410.13860)] [[github](https://github.com/OpenRobotLab/VLM-Grounder)]  
