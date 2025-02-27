@@ -107,6 +107,9 @@
 ## [Dense Grounding]()
 *`ACM MM 2023`* **🎐Dense Object Grounding in 3D Scenes🎐**
 
+## Efficient
+*`CVPR 2025`* **🎐Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding🎐**[[arxiv](https://arxiv.org/abs/2502.10392)] [[github](https://github.com/GWxuan/TSP3D)]  
+
 ## [Synthetic Scene]()
 *`IJCAI 2024`* **🎐3D Vision and Language Pretraining with Large-Scale Synthetic Data🎐**
 
