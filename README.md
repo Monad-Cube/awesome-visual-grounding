@@ -43,7 +43,7 @@
 *`ICCV 2023`* **🎐3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment🎐**  
 *`ECCV 2024`* **🎐Unifying 3D Vision-Language Understanding via Promptable Queries🎐**
 
-## [LLM]()
+## [LLM/VLM]()
 *`CVPR 2023`* **🎐NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations🎐**  
 *`CVPR 2024`* **🎐Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding🎐**  
 *`CVPR 2024`* **🎐Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners🎐**  
@@ -53,7 +53,7 @@
 *`Arxiv 2024.09`* **🎐LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness🎐**  
 *`CoRL 2024`* **🎐VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding🎐** [[arxiv](https://arxiv.org/abs/2410.13860)] [[github](https://github.com/OpenRobotLab/VLM-Grounder)]  
 *`Arxiv 2024.10`* **🎐Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning🎐** [[arxiv](https://arxiv.org/abs/2410.13860)] [[github](https://github.com/WeitaiKang/Robin3D)]  
-
+*`CVPR 2025`* **🎐SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding🎐** [[arxiv](https://arxiv.org/abs/2412.04383)] [[github](https://github.com/iris0329/SeeGround)]  
 
 ## [Language Parser]()
 *`AAAI 2023 Oral`* **🎐Language-Assisted 3D Feature Learning for Semantic Scene Understanding🎐**  
